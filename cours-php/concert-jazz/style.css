@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+* {
+    margin: 0;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+}
+
+.main {
+    position: relative;
+    margin: auto;
+    width: 424px;
+    height: 600px;
+    background-image: url(./images/jazz-club-arriere-plan.png);
+    background-size: cover;
+}
+
+
+.time {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 24px;
+    color: #f58633;
+    position: absolute;
+    top:145px; left: 33px;
+
+}
+
+
+.date {
+    font-family: 'PT Sans Narrow', sans-serif;
+    position: absolute;
+    bottom: 20px; left: 108px;
+    text-align: center;
+}
+
+.date p {
+    line-height: 1;
+}
+
+.day {
+    font-size: 45px;
+    color: #39ae9d;
+    font-weight: bold;
+}
+
+
+.month {
+    font-size: 22px;
+    color: #f58633;
+}
+
+
+.artist {
+    font-family: 'PT Sans Narrow', sans-serif;
+    position: absolute;
+    bottom: 20px;
+    left: 170px;
+    color: #ffbb88;
+}
+
+
+
+.freepik {
+    position: absolute;
+    left: 0;
+    bottom: -30px;
+}
