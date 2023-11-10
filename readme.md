@@ -5,7 +5,7 @@ Au début, ou en cas d'absence, vous trouverez l'état d'avancement du cours.
 ### Bouton code vert
 1. Cliquez sur le bouton et sélectionnez __download zip__
 2. Deziper et Enregistrez dans un dossier sûr de votre ordinateur. 
-> __NB__ Vous pouvez aussi ne récupérez que le la partie manquante à votre progression
+> __NB__ Une fois dézipé, Vous pouvez aussi ne récupérez que le la partie manquante à votre progression
 
 
 
