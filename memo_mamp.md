@@ -14,9 +14,8 @@ Sélectionnez _Downloads_
 #
 ## En bas de l'écran de la page downloads
 -  Sélection d'anciennes versions
--  Choisissez la version gratuite 5.7  
-
 ![](./capture_mamp/Capture2.PNG)
+-  Choisissez la version gratuite 5.7  
 #
 ## Une fois MAMP installé
 Deux voyants sont verts  
