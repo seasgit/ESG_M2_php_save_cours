@@ -13,7 +13,7 @@ Sélectionnez _Downloads_
 ![](./capture_mamp/Capture1.PNG)
 #
 ## En bas de l'écran de la page downloads
--  Sélection d'anciennes versions
+-  Sélection d'anciennes versions  
 ![](./capture_mamp/Capture2.PNG)
 -  Choisissez la version gratuite 5.7  
 #
