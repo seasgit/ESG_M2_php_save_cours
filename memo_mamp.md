@@ -32,6 +32,5 @@ Choisissez 8080 ou 8888 par exemple.
 
 # 3. Exécution d'une page PHP
 - Comme nous l'avons vu en cours, il faut taper dans l'url du navigateur localhost:8080 ( selon le port choisi ).  
-![](./capture_mamp/Capture8.PNG)  
-
+![](./capture_mamp/Capture6.PNG)  
 - Si vous avez des erreurs dans votre programme, exécutez celeui de la sauvegarde que j'ai créé, nous verrons en cours ensuite.
