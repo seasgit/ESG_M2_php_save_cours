@@ -15,6 +15,9 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
 - Présentation de PHP/MySQL
 - Support de cours :  https://github.com/seasgit/aide_bases_php
 - Installation et configuration de MAMP
-- Ouverture compte plateforme OneComplile
+### NB
+- problèmes de versions de MAMP sur certains MAC 
+- version adoptée MAMP 5.7
 ### Démarrage
 - PHP : les variables
+- TP : affiche concert de jazz
