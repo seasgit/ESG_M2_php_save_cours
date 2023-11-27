@@ -1,5 +1,7 @@
 <?php
 
+// Tableau associatif
+
 $tabConcerts = [
     "time"=> "9-pm",
     "day" => "15",
