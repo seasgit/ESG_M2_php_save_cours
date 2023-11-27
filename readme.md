@@ -27,3 +27,9 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
 ### Petit rappel
 - PHP pour rendre les pages web dynamiques avec des informations issues de base de données
 - Utilisation de tableaux pour organiser les données
+### Travail du jour 
+les tableaux de données en application 
+- avec le TP concert jazz
+- la plateforme oneCompiler : https://onecompiler.com/php
+- exp : https://onecompiler.com/php/3zuqqgm49
+- Suivi avec le support  : https://github.com/seasgit/aide_bases_php/blob/main/A__Bases_de_PHP.md

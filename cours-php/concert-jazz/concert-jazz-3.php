@@ -1,6 +1,9 @@
 <?php
     // le fichier courant a besoin de charger un fichier de données
     require "./data/database_array_multiple.php";
+    // on récupère dans la variable $concert un des concertsde la base de données
+    // Le concert est défini par un index  
+    $concert = $concerts[2];
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -11,14 +14,14 @@
 </head>
 <body>
     <main class="main">
-            <p class="time"><?= $tabConcerts['time'] ?></p>
+            <p class="time"><?= $concert['time'] ?></p>
             <div class="date">
-                <p class="month"><?= $tabConcerts['month'] ?></p>
-                <p class="day"><?= $tabConcerts['day'] ?></p>
+                <p class="month"><?= $concert['month'] ?></p>
+                <p class="day"><?= $concert['day'] ?></p>
             </div>
             <div class="artist">
-                <p><?= $tabConcerts["artistes"][0]  ?></p>
-                <p><?= $tabConcerts["artistes"][1]  ?></p>
+                <p><?= $concert["artistes"][0]  ?></p>
+                <p><?= $concert["artistes"][1]  ?></p>
             </div>
 
             <!-- credit freepik -->
