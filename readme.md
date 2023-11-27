@@ -38,3 +38,4 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
     -  Actions : 
         - créer dans data la base de données avec deux variables $taux et $message
         -  pour rendre dynamique le niveau de % et le message
+- Conditions 
