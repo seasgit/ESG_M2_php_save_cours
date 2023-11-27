@@ -21,3 +21,9 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
 ### Démarrage
 - PHP : les variables
 - TP : affiche concert de jazz
+
+## Le 27/11/2023
+
+### Petit rappel
+- PHP pour rendre les pages web dynamiques avec des informations issues de base de données
+- Utilisation de tableaux pour organiser les données

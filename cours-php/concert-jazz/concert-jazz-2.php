@@ -1,25 +1,25 @@
 <?php
     // le fichier courant a besoin de charger un fichier de données
-    require "./data/database.php";
+    require "./data/database_array.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="wi$tabConcerts["artistes"][0]dth=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
     <main class="main">
-            <p class="time"><?= $time ?></p>
+            <p class="time"><?= $tabConcerts['time'] ?></p>
             <div class="date">
-                <p class="month"><?= $month ?></p>
-                <p class="day"><?= $day ?></p>
+                <p class="month"><?= $tabConcerts['month'] ?></p>
+                <p class="day"><?= $tabConcerts['day'] ?></p>
             </div>
             <div class="artist">
-                <p><?= $artist1 ?></p>
-                <p><?= $artist2 ?></p>
+                <p><?= $tabConcerts["artistes"][0]  ?></p>
+                <p><?= $tabConcerts["artistes"][1]  ?></p>
             </div>
 
             <!-- credit freepik -->
