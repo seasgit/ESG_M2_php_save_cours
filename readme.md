@@ -33,9 +33,20 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
 - la plateforme oneCompiler : https://onecompiler.com/php
 - exp : https://onecompiler.com/php/3zuqqgm49
 - Suivi avec le support  : https://github.com/seasgit/aide_bases_php/blob/main/A__Bases_de_PHP.md
-2.Les conditions
+
+2.Les structures de conditions 
 - TP : super-sale
     -  Actions : 
-        - créer dans data la base de données avec deux variables $taux et $message
-        -  pour rendre dynamique le niveau de % et le message
-- Conditions 
+        - créer dans le dossier data la base de données avec deux variables $percent et $msg
+        - Ojectif : rendre dynamique l'affichage avec le niveau de % et le message
+## Le 28/11/2023
+- Sur la plateforme oneCompiler
+    - exo sur les conditions : calcul d'un score de 1 à 10 et affichage d'un message selon le score
+    - Présentation des boucles
+- TP : Bucket List
+    - Créer le fichier de données avec un tableau simple qui liste des choses cool à faire.
+    - Coder le modèle proposé en PHP avec une structure de boucle.
+- TP : Favorite pets version 1
+    - Créer le fichier de données avec un tableau associatif multiple.  
+      Chaque animal est représenté par une note et une image d'empreinte.
+    - Coder le modèle proposé en PHP avec une structure de boucle par animal.
