@@ -38,10 +38,13 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
 - TP : super-sale
     -  Actions : 
         - créer dans le dossier data la base de données avec deux variables $percent et $msg
-        - Ojectif : rendre dynamique l'affichage avec le niveau de % et le message
+        - Ojectif :   
+            Rendre dynamique l'affichage avec le niveau de % et le message.  
+            Selon le % accordé, le message change.
 ## Le 28/11/2023
 - Sur la plateforme oneCompiler
     - exo sur les conditions : calcul d'un score de 1 à 10 et affichage d'un message selon le score
+    - Correction  : https://onecompiler.com/php/3zuu36p3a
     - Présentation des boucles
 - TP : Bucket List
     - Créer le fichier de données avec un tableau simple qui liste des choses cool à faire.
