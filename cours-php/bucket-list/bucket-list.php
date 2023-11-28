@@ -16,7 +16,7 @@
         </header>
         <section class="grid">
         <!-- on répète 10 fois la construction du bloc de classe .cell -->
-        <?php for($i=0;$i<count($tabList); $i++) : ?>
+        <?php for( $i=0 ; $i < count($tabList); $i++ ) : ?>
             <div class="cell">
                 <p class="pcheck"><span>&#10003;</span></p>
                 <p class="item"><?= $tabList[$i] ?></p>
