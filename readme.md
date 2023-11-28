@@ -29,13 +29,13 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
 - Utilisation de tableaux pour organiser les données
 ### Travail du jour 
 1. les tableaux de données en application 
-- avec le TP concert jazz
-- la plateforme oneCompiler : https://onecompiler.com/php
+- __TP__ concert jazz 
+- Sur la plateforme oneCompiler : https://onecompiler.com/php
 - exp : https://onecompiler.com/php/3zuqqgm49
 - Suivi avec le support  : https://github.com/seasgit/aide_bases_php/blob/main/A__Bases_de_PHP.md
 
 2.Les structures de conditions 
-- TP : super-sale
+- __TP__ : super-sale
     -  Actions : 
         - créer dans le dossier data la base de données avec deux variables $percent et $msg
         - Ojectif :   
@@ -46,10 +46,12 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
     - exo sur les conditions : calcul d'un score de 1 à 10 et affichage d'un message selon le score
     - Correction  : https://onecompiler.com/php/3zuu36p3a
     - Présentation des boucles
-- TP : Bucket List
+- __TP__ : Mosaique d'avatars robots avec des prénoms issus d'un tableau 
+- __TP__ : Bucket List
     - Créer le fichier de données avec un tableau simple qui liste des choses cool à faire.
     - Coder le modèle proposé en PHP avec une structure de boucle.
-- TP : Favorite pets version 1
+
+- __TP__ : Favorite pets version 1
     - Créer le fichier de données avec un tableau associatif multiple.  
-      Chaque animal est représenté par une note et une image d'empreinte.
+      >> Chaque animal est représenté par une note et une image d'empreinte.
     - Coder le modèle proposé en PHP avec une structure de boucle par animal.
