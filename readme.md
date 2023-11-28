@@ -20,7 +20,7 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
 - version adoptée MAMP 5.7
 ### Démarrage
 - PHP : les variables
-- TP : affiche concert de jazz
+- __TP__  affiche concert de jazz
 
 ## Le 27/11/2023
 
@@ -30,8 +30,8 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
 ### Travail du jour 
 1. les tableaux de données en application 
 - __TP__ concert jazz 
-- Sur la plateforme oneCompiler : https://onecompiler.com/php
-- exp : https://onecompiler.com/php/3zuqqgm49
+- __Tests__ sur la plateforme oneCompiler : https://onecompiler.com/php
+    - exp : https://onecompiler.com/php/3zuqqgm49
 - Suivi avec le support  : https://github.com/seasgit/aide_bases_php/blob/main/A__Bases_de_PHP.md
 
 2.Les structures de conditions 
@@ -42,10 +42,11 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
             Rendre dynamique l'affichage avec le niveau de % et le message.  
             Selon le % accordé, le message change.
 ## Le 28/11/2023
-- Sur la plateforme oneCompiler
+1. Les structures de conditions (suite)
+- __Tests__  Sur la plateforme oneCompiler
     - exo sur les conditions : calcul d'un score de 1 à 10 et affichage d'un message selon le score
     - Correction  : https://onecompiler.com/php/3zuu36p3a
-    - Présentation des boucles
+2. Les structures boucles
 - __TP__ : Mosaique d'avatars robots avec des prénoms issus d'un tableau 
 - __TP__ : Bucket List
     - Créer le fichier de données avec un tableau simple qui liste des choses cool à faire.

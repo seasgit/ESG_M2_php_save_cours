@@ -1,0 +1,14 @@
+<?php
+
+ $tabList = [
+    "Do yoga",
+    "Learn to cook",
+    "Play guitar",
+    "Road Trip in Italy",
+    "Wake up early",
+    "Read more",
+    "Have fun with friends",
+    "Go to theater",
+    "Visit Japan",
+    "Play a team sport"
+ ];
