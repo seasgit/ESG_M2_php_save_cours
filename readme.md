@@ -52,7 +52,7 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
     - Créer le fichier de données avec un tableau simple qui liste des choses cool à faire.
     - Coder le modèle proposé en PHP avec une structure de boucle.
 
-- __TP__ : Favorite pets version 1
-    - Créer le fichier de données avec un tableau associatif multiple.  
+- __TP__ : Favorite pets 1ere partie
+    - Création du fichier de données avec un tableau associatif multiple.  
       >> Chaque animal est représenté par une note et une image d'empreinte.
-    - Coder le modèle proposé en PHP avec une structure de boucle par animal.
+    - A coder => Notation de chaque animal avec 5 structures de boucle.
