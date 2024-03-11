@@ -18,24 +18,24 @@
             <?php endfor ?>
             </div>
             <div class="cell">
-                <img src="./images/cat-footprint.png" alt="">
-                <img src="./images/cat-footprint.png" alt="">
-                <img src="./images/cat-footprint.png" alt="">
-                <img src="./images/cat-footprint.png" alt="">
+                <?php for($i=1; $i <= $notation['cat']['note'];$i++): ?>
+                    <img src="./images/<?= $notation['cat']['footprint'] ?>" alt="">
+                <?php endfor ?>
             </div>
             <div class="cell">
-                <img src="./images/bubble.png" alt="">
-                <img src="./images/bubble.png" alt="">
+                <?php for($i=1; $i <= $notation['fish']['note'];$i++): ?>
+                    <img src="./images/<?= $notation['fish']['footprint'] ?>" alt="">
+                <?php endfor ?>
             </div>
             <div class="cell">
-                <img src="./images/rabbit-footprint.png" alt="">
-                <img src="./images/rabbit-footprint.png" alt="">
-                <img src="./images/rabbit-footprint.png" alt="">
+                <?php for($i=1; $i <= $notation['rabbit']['note'];$i++): ?>
+                    <img src="./images/<?= $notation['rabbit']['footprint'] ?>" alt="">
+                <?php endfor ?>
             </div>
             <div class="cell">
-                <img src="./images/bird-footprint.png" alt="">
-                <img src="./images/bird-footprint.png" alt="">
-                <img src="./images/bird-footprint.png" alt="">
+                <?php for($i=1; $i <= $notation['bird']['note'];$i++): ?>
+                    <img src="./images/<?= $notation['bird']['footprint'] ?>" alt="">
+                <?php endfor ?>
             </div>
         </section>
 

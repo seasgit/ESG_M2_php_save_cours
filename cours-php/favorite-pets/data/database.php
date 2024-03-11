@@ -3,7 +3,7 @@
 $notation = [
     "dog" => [
         "footprint" => "dog-footprint.png",
-        "note"=> 5
+        "note"=> 3
     ],
     "cat" => [
         "footprint" => "cat-footprint.png",
@@ -11,7 +11,7 @@ $notation = [
     ], 
     "fish" => [
         "footprint" => "bubble.png",
-        "note"=> 2
+        "note"=> 5
     ],   
     "rabbit" => [
         "footprint" => "rabbit-footprint.png",
@@ -19,7 +19,7 @@ $notation = [
     ], 
     "bird" => [
         "footprint" => "bird-footprint.png",
-        "note"=> 2
+        "note"=> 3
     ] 
 ];
 
