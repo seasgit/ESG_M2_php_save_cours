@@ -56,3 +56,8 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
     - Création du fichier de données avec un tableau associatif multiple.  
       >> Chaque animal est représenté par une note et une image d'empreinte.
     - A coder => Notation de chaque animal avec 5 structures de boucle.
+
+## Le 10/03/2024
+1. Les structures boucles (suite)
+- __TP__ : Favorite pets (finir)
+2. Introduction MySQL
