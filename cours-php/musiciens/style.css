@@ -1,0 +1,31 @@
+* {  margin: 0; }
+
+body {  padding-top: 50px; }
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.main-section {
+    margin: 0 auto;
+    width: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #c3c1c1;
+    padding: 10px;
+}
+
+.menu {
+    width: 200px;
+    min-height: 150px;
+    background-color: #ddd;
+}
+
+.detail {
+    width: 225px;
+    min-height: 150px;
+    background-color: #ddd;
+}
+
+
