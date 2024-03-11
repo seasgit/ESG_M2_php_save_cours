@@ -72,9 +72,9 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
 2. Les structures boucles (suite)
 - __TP__ : Favorite pets (finir)
 3. Introduction MySQL
-- Principed'une database et démo avec le site de la fnac
+- Principe d'une database et démo avec le site de la fnac
 - Création d'une database de Musiciens
 - Ajout d'une table
 - Insertion d'une enregistrement
-- Insertion multiple
+- Insertions multiples
 - Démo de sélections et suite d'autres modes testées par les élèves.
