@@ -58,6 +58,17 @@ Au début du cours, ou en cas d'absence, vous trouverez l'état d'avancement du 
     - A coder => Notation de chaque animal avec 5 structures de boucle.
 
 ## Le 11/03/2024
-1. Les structures boucles (suite)
+1. Résumé des concepts vus précédement
+- PHP => rendre les pages web dynamiques avec des informations issues de base de données
+- MySQL => Système de gestion de base de données (SGBD). Son rôle est de ranger et permettre de manipuler ces données  : __sélectionner, mettre à  jour, effacer, insérer__
+- Programme PHP ,ca contient quoi ?
+    - Variables 
+    - Tableaux,
+    - gérer des possibilités (conditions)
+    - Gérer des répétions d'action (boucles)
+    - etc ...
+
+
+2. Les structures boucles (suite)
 - __TP__ : Favorite pets (finir)
-2. Introduction MySQL
+3. Introduction MySQL
